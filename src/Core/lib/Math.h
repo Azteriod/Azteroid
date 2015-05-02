@@ -5,7 +5,7 @@
 #ifndef AZT_MATH_H
 #define AZT_MATH_H
 
-#include "../runtime.h"
+#include "../core.h"
 
 azt_val * math_abs(azt_val *, azt_args *, eval_state *);
 azt_val * math_acos(azt_val *, azt_args *, eval_state *);
